@@ -1,15 +1,14 @@
 ## curso Git desde cero 
-
 Sistema de control de versiones para el mantenimiento eficiente y confiable de archivos
 
 ### zonas de  Git 
 1. Directorio de trabajo 
-2. Area de preparacion
+2. Area de preparación
 3. Directorio Git 
 
 ### Flujo de trabajo básico en Git
 1. Modificar una serie de archivos en tu directorio  de trabajo.
-2. Prepara los archivos, añadiéndolos en tu área de preparacion. 
+2. Prepara los archivos, añadiéndolos en tu área de preparación. 
 2. Confirmas los cambios, lo que toma los archivos tal y como están en el área de preparación y almacena esa copia instantánea de manera permanente en tu directorio de Git.
 
 ##comandos
@@ -20,9 +19,12 @@ Sistema de control de versiones para el mantenimiento eficiente y confiable de a
 5. git add  "archivo a subir al repositorio sin comillas" zona de preparacion 
 6. git diff muestra la ultima referencia del archivo es decir lo que se le añade al archivo y aparece en color verde 
 7. git diff --staged vemos la diferencia entre un archivo ya preparado y el que no hemos preparado 
+8. git add . añade todos los archivos esten en seguimiento con git o no, la zona de preparacion.
+9. git reset HEAD "nombre del archivo" saca los archivos de la zona de preparación a la zona de trabajo 
+10. git add -A agrega al area de preparación todos los archivos preparacion que estaomos siguiendo con Git
+11. git commit --amend para cambiar el commit mas reciente que hicimos por otro comentario 
 
 ## Git por primera vez 
-
 1. git config --global user.name "JoelCLuna" 
 2. git config --global user.email joelcluna@gmail.com
 3. git config --global core. editor nano 
