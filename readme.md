@@ -1,5 +1,7 @@
 ## curso Git desde cero 
 
+Sistema de control de versiones para el mantenimiento eficiente y confiable de archivos
+
 ### zonas de  Git 
 1. Directorio de trabajo 
 2. Area de preparacion
@@ -14,7 +16,7 @@
 1. Git init inicializa git en en el proyecto o carpeta que estamos trabajando.
 2. git Status muestra el status del archivo.
 3. Git commit -m "añade un comentario al archivo que estas subiendo o los cambios que hiciste/con comillas".
-4. git log dice quien hizo el commit, la hora y el comentario del commit
+4. git log dice quien hizo el commit, la hora y el comentario del commit (muestra el historial)
 5. git add  "archivo a subir al repositorio sin comillas" zona de preparacion 
 6. git diff muestra la ultima referencia del archivo es decir lo que se le añade al archivo y aparece en color verde 
 7. git diff --staged vemos la diferencia entre un archivo ya preparado y el que no hemos preparado 
