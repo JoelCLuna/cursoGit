@@ -23,6 +23,8 @@ Sistema de control de versiones para el mantenimiento eficiente y confiable de a
 9. git reset HEAD "nombre del archivo" saca los archivos de la zona de preparación a la zona de trabajo 
 10. git add -A agrega al area de preparación todos los archivos preparacion que estaomos siguiendo con Git
 11. git commit --amend para cambiar el commit mas reciente que hicimos por otro comentario 
+12. git mv file_from file_to  para renombar archivos 
+2.git rm  para elimar el archivo con git 
 
 ## Git por primera vez 
 1. git config --global user.name "JoelCLuna" 
