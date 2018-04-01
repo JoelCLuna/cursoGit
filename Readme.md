@@ -31,6 +31,7 @@ Sistema de control de versiones para el mantenimiento eficiente y confiable de a
 17. git log --3 para ver los ultimos tres o el numero que le metamos es lo que nos mostrara
 18. git log --pretty=format: "%h - %an(autor del commit),  %ar : %s"
                    7be4c0e - Joel Celaya,  2 days ago : notas de git
+19.                    
 
 
 ## Git por primera vez 
