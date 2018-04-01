@@ -35,6 +35,11 @@ Sistema de control de versiones para el mantenimiento eficiente y confiable de a
 20. git log --after="2018-03-30" --before="2018-04-03" 
 21.  git commit -a -m git prepara automaticamente todos los archivos rastreados antes de confirmarlos.                  
 22. git checkout -- (nombre del archivo) recupera el archivo eliminado
+23. git reset HEAD -> (name file para sacar del area de preparacion el archivo
+24. git clone (ruta) nombre del clone 
+25 git log --decorate --oneline --graph --all muestra todas las ramas del proyecto
+git  checkout (a166630)  es para ir a un punto de un commit
+
 
 
 ## Git por primera vez 
