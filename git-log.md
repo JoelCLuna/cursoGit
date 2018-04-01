@@ -1,5 +1,5 @@
 ##git log 
-muestra el historial de commits 
+muestra todo el historial de commits del proyecto
 
 7be4c0e - Joel Celaya,  2 days ago : notas de git
 
