@@ -23,7 +23,7 @@ Sistema de control de versiones para el mantenimiento eficiente y confiable de a
 9. git reset HEAD "nombre del archivo" saca los archivos de la zona de preparación a la zona de trabajo 
 10. git add -A agrega al area de preparación todos los archivos preparacion que estaomos siguiendo con Git
 11. git commit --amend para cambiar el commit mas reciente que hicimos por otro comentario 
-12. git mv git file_from file_to  para renombar archivos 
+12. git mv file_from file_to  para renombar archivos 
 13. git rm  para elimar el archivo con git 
 14. git log --graph 
 15. git log --oneline
@@ -32,6 +32,7 @@ Sistema de control de versiones para el mantenimiento eficiente y confiable de a
 18. git log --pretty=format: "%h - %an(autor del commit),  %ar : %s"
                    7be4c0e - Joel Celaya,  2 days ago : notas de git
 19.  git commit -a -m git prepara automaticamente todos los archivos rastreados antes de confirmarlos.                  
+20. git checkout recupera el archivo eliminado
 
 
 ## Git por primera vez 
