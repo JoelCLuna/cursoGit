@@ -31,8 +31,10 @@ Sistema de control de versiones para el mantenimiento eficiente y confiable de a
 17. git log --3 para ver los ultimos tres o el numero que le metamos es lo que nos mostrara
 18. git log --pretty=format: "%h - %an(autor del commit),  %ar : %s"
                    7be4c0e - Joel Celaya,  2 days ago : notas de git
-19.  git commit -a -m git prepara automaticamente todos los archivos rastreados antes de confirmarlos.                  
-20. git checkout -- (nombre del archivo) recupera el archivo eliminado
+19. git log --after="2018-03-23 11:02:20"
+20. git log --after="2018-03-30" --before="2018-04-03" 
+21.  git commit -a -m git prepara automaticamente todos los archivos rastreados antes de confirmarlos.                  
+22. git checkout -- (nombre del archivo) recupera el archivo eliminado
 
 
 ## Git por primera vez 
