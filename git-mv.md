@@ -1,6 +1,6 @@
 ## Renombrar archivos 
 
-git mv  file_from file_to 
+git mv file_from file_to 
 
 
 equivalente a los siguientes pasos:

@@ -32,7 +32,7 @@ Sistema de control de versiones para el mantenimiento eficiente y confiable de a
 18. git log --pretty=format: "%h - %an(autor del commit),  %ar : %s"
                    7be4c0e - Joel Celaya,  2 days ago : notas de git
 19.  git commit -a -m git prepara automaticamente todos los archivos rastreados antes de confirmarlos.                  
-20. git checkout recupera el archivo eliminado
+20. git checkout -- (nombre del archivo) recupera el archivo eliminado
 
 
 ## Git por primera vez 
