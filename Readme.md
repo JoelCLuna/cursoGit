@@ -1,6 +1,7 @@
 ## curso Git desde cero 
 Sistema de control de versiones para el mantenimiento eficiente y confiable de archivos
 
+
 ### zonas de  Git 
 1. Directorio de trabajo 
 2. Area de preparación
@@ -10,6 +11,14 @@ Sistema de control de versiones para el mantenimiento eficiente y confiable de a
 1. Modificar una serie de archivos en tu directorio  de trabajo.
 2. Prepara los archivos, añadiéndolos en tu área de preparación. 
 2. Confirmas los cambios, lo que toma los archivos tal y como están en el área de preparación y almacena esa copia instantánea de manera permanente en tu directorio de Git.
+
+
+## Git por primera vez 
+1. git config --global user.name "JoelCLuna" 
+2. git config --global user.email joelcluna@gmail.com
+3. git config --global core. editor nano 
+3. git config --list 
+
 
 ##comandos
 1. Git init inicializa git en en el proyecto o carpeta que estamos trabajando.
@@ -41,14 +50,7 @@ Sistema de control de versiones para el mantenimiento eficiente y confiable de a
 git  checkout (a166630)  es para ir a un punto de un commit
 
 
-
-## Git por primera vez 
-1. git config --global user.name "JoelCLuna" 
-2. git config --global user.email joelcluna@gmail.com
-3. git config --global core. editor nano 
-3. git config --list 
-
-## 
+##
 
 ##
 
