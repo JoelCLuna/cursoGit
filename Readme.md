@@ -49,9 +49,5 @@ Sistema de control de versiones para el mantenimiento eficiente y confiable de a
 25 git log --decorate --oneline --graph --all muestra todas las ramas del proyecto
 git  checkout (a166630)  es para ir a un punto de un commit
 
-
-##
-Esta linea fue creada en la rama master. 
-##
-
-##
+## aporte desde Otra cuenta. 
+este texto fue aportado desde la cuenta otra
