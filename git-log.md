@@ -17,3 +17,7 @@ git log --pretty=format:"%h - %an, %ar : %s"
  las banderas del comando git log se pueden usar juntas segun convenga por ejemplo :
  git log --after="2018-03-30" --before="2018-04-03" 
  git log --after="2018-03-30 12:00:00" --before="2018-04-03 21:30:50" 
+
+
+'git log  --oneline'
+Este comando nos muestra el historial en una sola linea por commit.
