@@ -51,3 +51,6 @@ git  checkout (a166630)  es para ir a un punto de un commit
 
 ## aporte desde Otra cuenta. 
 este texto fue aportado desde la cuenta otra
+
+## Varios repositorios remotos
+Podemos configurar un mismo proyecto para sincronizar cambios con varios repositorios remotos.
