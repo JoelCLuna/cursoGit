@@ -1,4 +1,4 @@
-##git log 
+# git log 
 muestra todo el historial de commits del proyecto
 
 7be4c0e - Joel Celaya,  2 days ago : notas de git
@@ -7,7 +7,7 @@ muestra todo el historial de commits del proyecto
 git log --pretty=format:"%h - %an, %ar : %s" 
  muestra el historial con el formato que indicamos. 
  
- ## limitar la salida del historial 
+ # limitar la salida del historial 
  git log -n  cambiamos la n por cualquier numero entero, por ejemplo:
  git log -2 nos mostrara los 2 commits mas recientes. 
  

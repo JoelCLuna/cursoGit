@@ -1,4 +1,4 @@
-##  git remote add origin https://JoelCLuna@bitbucket.org/JoelCLuna/cursogit.git
+#  git remote add origin https://JoelCLuna@bitbucket.org/JoelCLuna/cursogit.git
 Con este comando vinculamos nuestro repositorio local con Github.
 
 
